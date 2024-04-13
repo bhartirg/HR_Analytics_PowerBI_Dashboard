@@ -1,2 +1,2 @@
 # HR_Analytics_PowerBI_Dashboard
-his project presents an interactive HR analytics dashboard created using Power BI, designed to provide comprehensive insights int
+This project presents an interactive HR analytics dashboard created using Power BI, designed to provide comprehensive insights into various HR metrics and trends within an organization. By leveraging data visualization techniques, the dashboard aims to empower HR professionals and decision-makers with actionable insights for optimizing workforce management strategies.
